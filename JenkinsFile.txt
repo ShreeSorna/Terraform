@@ -1,0 +1,2 @@
+c:\terraform\terraform.exe init
+c:\terraform\terraform.exe apply -auto-approve
